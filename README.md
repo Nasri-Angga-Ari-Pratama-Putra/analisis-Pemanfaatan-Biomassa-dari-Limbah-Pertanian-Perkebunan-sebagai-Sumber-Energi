@@ -11,7 +11,7 @@ Transisi menuju energi hijau adalah keharusan global, dan Indonesia, khususnya P
 ### 📚Latar Belakang
   Sebagai salah satu produsen kelapa sawit terbesar di Indonesia, Jambi menghasilkan volume limbah biomassa yang masif setiap tahunnya. Limbah-limbah ini, jika tidak dikelola dengan baik, dapat menimbulkan masalah lingkungan. Namun, dengan teknologi yang tepat, limbah ini dapat diubah menjadi sumber energi terbarukan yang berkelanjutan. Pemanfaatan biomassa bukan hanya solusi pengelolaan limbah, tetapi juga pilar penting dalam mencapai target energi baru terbarukan (EBT), mengurangi emisi karbon, dan mendukung ketahanan energi lokal, terutama di tengah komitmen Indonesia terhadap Net-Zero Emissions.
 
-### Tujuan Analisis
+### 🎯Tujuan Analisis
 1. Mengidentifikasi dan Mengukur Potensi Biomassa: Memetakan jenis dan volume limbah pertanian/perkebunan di Jambi yang berpotensi menjadi sumber energi.
 2. Menganalisis Teknologi Pemanfaatan: Menjelaskan berbagai teknologi yang cocok untuk mengkonversi limbah biomassa menjadi energi.
 3. Mengevaluasi Dampak Lingkungan dan Ekonomi: Mengestimasi potensi pengurangan emisi gas rumah kaca dan penghematan finansial dari denda emisi jika biomassa dimanfaatkan.
