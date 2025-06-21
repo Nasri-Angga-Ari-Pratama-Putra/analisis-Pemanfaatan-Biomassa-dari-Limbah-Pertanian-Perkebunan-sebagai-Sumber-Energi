@@ -197,5 +197,5 @@ Analisis ini dengan jelas menunjukkan bahwa biomassa dari limbah pertanian dan p
 
 **Penting:** Semua angka dalam analisis ini adalah hipotetis dan ilustratif. Untuk implementasi nyata, diperlukan studi kelayakan mendalam, data riil yang akurat, serta dukungan kebijakan yang kuat dari pemerintah dan seluruh stakeholder.
 
-
+### **Masa depan energi kita tidak terletak pada penemuan sumber baru, tetapi pada bagaimana kita memanfaatkan apa yang sudah ada di sekitar kita dengan lebih bijak.**
 
