@@ -33,6 +33,7 @@ Mengevaluasi Dampak: Mengestimasi potensi pengurangan emisi gas rumah kaca dan p
 Menyediakan Kerangka Analisis: Mendemonstrasikan bagaimana data ini dapat dianalisis dan divisualisasikan menggunakan Python.
 
 ##📈1. Potensi Biomassa dari Limbah Pertanian/Perkebunan di Jambi (Hipotetis, Rata-rata Tahunan 2010-2024)
+
 ![](https://docs.google.com/spreadsheets/d/1iKmuc5ykjb3CU7gfhs-5MvrN78y83SVIODpFSAfoQ10/edit?gid=1705509609#gid=1705509609)
 
 
