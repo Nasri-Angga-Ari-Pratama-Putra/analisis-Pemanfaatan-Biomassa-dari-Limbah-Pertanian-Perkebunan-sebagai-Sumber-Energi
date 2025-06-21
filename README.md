@@ -1,5 +1,6 @@
 # Pemanfaatan Biomassa dari Limbah Pertanian Perkebunan sebagai Sumber Energi
 ---
+![](https://github.com/Nasri-Angga-Ari-Pratama-Putra/analisis-Pemanfaatan-Biomassa-dari-Limbah-Pertanian-Perkebunan-sebagai-Sumber-Energi/blob/main/Pemanfaatan_Biomassa.png)
 ## 🚀 Pendahuluan
 
   Indonesia, dengan kekayaan alamnya🌳, adalah salah satu negara agraris terbesar di dunia🌏. Sektor pertanian dan perkebunan memainkan peran vital dalam perekonomian nasional, namun di balik produksi yang melimpah, tersimpan potensi besar yang sering kali terabaikan: limbah biomassa🌿♻️. Dari sekam padi hingga tandan kosong kelapa sawit🌴, limbah-limbah ini umumnya dianggap sebagai buangan yang menimbulkan masalah lingkungan, mulai dari polusi udara😷 akibat pembakaran🔥 hingga penumpukan yang mencemari tanah dan air.
