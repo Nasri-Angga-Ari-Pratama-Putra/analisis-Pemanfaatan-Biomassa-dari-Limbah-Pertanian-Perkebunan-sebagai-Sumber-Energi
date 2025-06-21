@@ -32,9 +32,11 @@ Menganalisis Teknologi: Menjelaskan berbagai teknologi yang cocok untuk mengkonv
 Mengevaluasi Dampak: Mengestimasi potensi pengurangan emisi gas rumah kaca dan penghematan finansial dari denda emisi.
 Menyediakan Kerangka Analisis: Mendemonstrasikan bagaimana data ini dapat dianalisis dan divisualisasikan menggunakan Python.
 
-##📈1. Potensi Biomassa dari Limbah Pertanian/Perkebunan di Jambi (Hipotetis, Rata-rata Tahunan 2010-2024)
+## 📈1. Potensi Biomassa dari Limbah Pertanian/Perkebunan di Jambi (Hipotetis, Rata-rata Tahunan 2010-2024)
+Jambi kaya akan sumber daya biomassa. Berikut perkiraan potensi rata-rata per jenis limbah:
 
-[](https://docs.google.com/spreadsheets/d/1iKmuc5ykjb3CU7gfhs-5MvrN78y83SVIODpFSAfoQ10/edit?gid=1705509609#gid=1705509609)
+
+
 
 
 
