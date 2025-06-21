@@ -17,7 +17,7 @@ Transisi menuju energi hijau adalah keharusan global, dan Indonesia, khususnya P
 3. Mengevaluasi Dampak Lingkungan dan Ekonomi: Mengestimasi potensi pengurangan emisi gas rumah kaca dan penghematan finansial dari denda emisi jika biomassa dimanfaatkan.
 4. Menyediakan Kerangka Analisis Data: Mendemonstrasikan bagaimana data potensi biomassa dan emisi dapat dianalisis dan divisualisasikan menggunakan Python.
 
-
+## 📊2. 
 
 
 
